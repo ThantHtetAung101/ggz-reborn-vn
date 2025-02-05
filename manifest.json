@@ -1,6 +1,24 @@
 {
     "name": "GGZ Reborn VN",
+    "short_name": "GGZ VN",
+    "description": "A fully immersive visual novel experience in landscape mode.",
     "display": "standalone",
-    "start_url": "/ggz-reborn-vn"
+    "orientation": "landscape",
+    "start_url": "/ggz-reborn-vn",
+    "scope": "/ggz-reborn-vn",
+    "theme_color": "#000000",
+    "background_color": "#000000",
+    "icons": [
+      {
+        "src": "/assets/logo-CGVMhBip.webp",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/assets/logo-CGVMhBip.webp",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
   }
   
